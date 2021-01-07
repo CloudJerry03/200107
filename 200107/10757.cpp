@@ -14,6 +14,7 @@ int main()
 
 	if (Asize > Bsize)
 	{
-		//걍 python으로 푸셈
+		// 걍 python으로 푸셈
+		// pythob풀이는 있음
 	}
 }
